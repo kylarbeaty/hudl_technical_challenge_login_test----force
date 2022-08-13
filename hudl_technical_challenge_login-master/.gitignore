@@ -1,0 +1,16 @@
+# Project
+/results/
+/data/locators/credentials.py
+
+# Python
+venv/*
+*.pyc
+*.spec
+
+# Webdriver
+*.log
+
+# Intellij
+.idea/
+*.iml
+*.iws
